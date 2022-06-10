@@ -1,2 +1,2 @@
 # COLLECT_FrontEnd
-SE-III Course Project Front-end
+智能化众测平台 COLLECT 前端项目

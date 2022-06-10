@@ -1,0 +1,19 @@
+.el-button--goon.is-active,
+.el-button--goon:active {
+    background: #ab0427;
+    border-color: #ab0427;
+    color: #fff;
+}
+
+.el-button--goon:focus,
+.el-button--goon:hover {
+    background: #a92d47;
+    border-color: #a92d47;
+    color: #fff;
+}
+
+.el-button--goon {
+    color: #FFF;
+    background-color: #ab0427;
+    border-color: #ab0427;
+}
